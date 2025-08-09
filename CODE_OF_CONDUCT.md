@@ -1,6 +1,6 @@
 # 📜 Contributor Covenant Code of Conduct
 
-Welcome to **[EdgeCareer]**!  
+Welcome to **EdgeCareer**!  
 We are committed to creating a **safe, welcoming, and inclusive environment** for everyone.
 
 ---
